@@ -1,6 +1,6 @@
 {
     "name": "com.charlitos.unity-utils",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "displayName": "Charlitos Unity Utils",
     "description": "Esta es una paquetería que usamos en una clase de videojuegos en ITESCA.",
     "type": "unity library",
