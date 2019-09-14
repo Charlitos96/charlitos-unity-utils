@@ -2,8 +2,8 @@
 
 ## Use Package
 
-```
+```json
  "dependencies": {
-    "com.mycompany.mypackage": "https://mycompany.github.com/gitproject/com.mycompany.mypackage.git"
+    "com.charlitos.unity-utils": "https://github.com/Charlitos96/charlitos-unity-utils.git"
 }
 ```
