@@ -3,6 +3,7 @@
     "version": "1.0.1",
     "displayName": "Charlitos Unity Utils",
     "description": "Esta es una paquetería que usamos en una clase de videojuegos en ITESCA.",
+    "type": "unity library",
     "unity": "2019.2",
     "license": "MIT",
     "keywords": [
